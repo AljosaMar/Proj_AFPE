@@ -1,4 +1,6 @@
-
+# Danke Chen!
+# Hvala Paula i Milane!
+#
 library(ggplot2)
 library(cubature)
 
